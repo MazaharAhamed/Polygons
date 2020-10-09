@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polygons", "Polygons\Polygons.csproj", "{4595DCDB-9D8C-4300-BED9-7AFD7329DF1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polygons.Library", "Polygons.Library\Polygons.Library.csproj", "{F7622756-CE11-47E1-9E2F-7F3E6607FFEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4595DCDB-9D8C-4300-BED9-7AFD7329DF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4595DCDB-9D8C-4300-BED9-7AFD7329DF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4595DCDB-9D8C-4300-BED9-7AFD7329DF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4595DCDB-9D8C-4300-BED9-7AFD7329DF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7622756-CE11-47E1-9E2F-7F3E6607FFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7622756-CE11-47E1-9E2F-7F3E6607FFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7622756-CE11-47E1-9E2F-7F3E6607FFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7622756-CE11-47E1-9E2F-7F3E6607FFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3063BC7-55DE-4AC6-825F-4C0821B843D0}
+	EndGlobalSection
+EndGlobal
